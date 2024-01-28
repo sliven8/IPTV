@@ -22,6 +22,7 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 中国教育-1,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch17081012040985783403.rsc/30992_Uni.sdp
 中国教育-2,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19011415055733660637.rsc/51797_Uni.sdp
 中国教育-4,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch20021410003517423887.rsc/56565_Uni.sdp
+中国气象SD,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162146737823.rsc/30987_Uni.sdp
 本地,#genre#
 福建综合,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18122115512978075826.rsc/50917_Uni.sdp
 东南卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch16042815324509410461.rsc/30938_Uni.sdp
