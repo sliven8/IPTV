@@ -46,6 +46,9 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/
 南平新闻综合,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18021018565597819147.rsc/45386_Uni.sdp
 平潭综合,rtsp://27.148.239.99:1554/iptv/import/Tvod/iptv/001/001/ch18111517242607846812.rsc/48823_Uni.sdp
 卫视数字,#genre#
+凤凰中文,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614354694706611.rsc/41718_Uni.sdp
+凤凰资讯,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614353125275996.rsc/41775_Uni.sdp
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 北京卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch15102717162108426467.rsc/30917_Uni.sdp
 北京卡酷,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225643/1.m3u8
 北京纪实,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
@@ -134,9 +137,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 老故事SD,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch23101117043574518040.rsc/62360_Uni.sdp
 书画频道SD,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch23101117041365170817.rsc/62396_Uni.sdp
 高网频道SD,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch21061816175629832803.rsc/58029_Uni.sdp
-凤凰中文,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614354694706611.rsc/41718_Uni.sdp
-凤凰资讯,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614353125275996.rsc/41775_Uni.sdp
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 爱上4K,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18122110190633826391.rsc/51363_Uni.sdp
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
