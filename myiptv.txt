@@ -93,6 +93,7 @@ CGTN-俄语,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch210624170
 CGTN-纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch21062417072087321230.rsc/58070_Uni.sdp
 北京卡酷SD,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18051116150082634005.rsc/46313_Uni.sdp
 北京纪实,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+上海都市,http://[2409:8087:7001:20:1000::94]:6610/000000001000/5000000010000018926/index.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT82857820240131132009000456&channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 第一财经,rtsp://27.148.236.129:554/live/ch22071916505770928720.sdp?FccMediaIP=239.61.3.52&FccMediaPort=9830&vcdnid=001&mediaid=ch22071916505770928720&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPemBocKqfurBFuoFmlaJTW8yaNSGRDTVcweeJZf1s3yVj0d8RtgP2DayASZlOpMLMaA%3D%3D
 纪实人文,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch17081012003923835755.rsc/30906_Uni.sdp
 哈哈炫动SD,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch15102717162121396096.rsc/30925_Uni.sdp
