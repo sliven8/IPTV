@@ -125,7 +125,6 @@ CGTN-纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch210624170
 CHC动作电影,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch22091415255480246214.rsc/60545_Uni.sdp
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
 财富天下SD,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch23011618373496091095.rsc/60932_Uni.sdp
 梨园,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch22091416101671606843.rsc/60657_Uni.sdp
 文物宝库,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch22091416245095951152.rsc/60731_Uni.sdp
