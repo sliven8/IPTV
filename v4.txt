@@ -52,7 +52,6 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 卫视,#genre#
 凤凰中文,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614354694706611.rsc/41718_Uni.sdp
 凤凰资讯,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614353125275996.rsc/41775_Uni.sdp
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 北京卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch15102717162108426467.rsc/30917_Uni.sdp
 天津卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18010423254205139387.rsc/40511_Uni.sdp
 河北卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch15102717162108825623.rsc/30958_Uni.sdp
@@ -67,7 +66,6 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 安徽卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18100816341109258484.rsc/47990_Uni.sdp
 江西卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18010423261264213862.rsc/40629_Uni.sdp
 山东卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch15111011110075906735.rsc/31023_Uni.sdp
-山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 河南卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162143318342.rsc/30971_Uni.sdp
 湖北卫视,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch15111011082361717939.rsc/30915_Uni.sdp
 湖南卫视,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch15102717162145789452.rsc/30910_Uni.sdp
