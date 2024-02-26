@@ -69,7 +69,6 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 安徽卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18100816341109258484.rsc/47990_Uni.sdp
 江西卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18010423261264213862.rsc/40629_Uni.sdp
 山东卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch15111011110075906735.rsc/31023_Uni.sdp
-山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 河南卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162143318342.rsc/30971_Uni.sdp
 湖北卫视,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch15111011082361717939.rsc/30915_Uni.sdp
 湖南卫视,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch15102717162145789452.rsc/30910_Uni.sdp
@@ -98,7 +97,7 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 上海都市,http://[2409:8087:7001:20:1000::94]:6610/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 第一财经,rtsp://27.148.236.129:554/live/ch22071916505770928720.sdp?FccMediaIP=239.61.3.52&FccMediaPort=9830&vcdnid=001&mediaid=ch22071916505770928720&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPemBocKqfurBFuoFmlaJTW8yaNSGRDTVcweeJZf1s3yVj0d8RtgP2DayASZlOpMLMaA%3D%3D
 纪实人文,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch17081012003923835755.rsc/30906_Uni.sdp
-上海ics,http://[2409:8087:7001:20:1000::96]:6610/000000001000/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
+上海外语,http://[2409:8087:7001:20:1000::96]:6610/000000001000/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 哈哈炫动,http://[2409:8087:7001:20:1000::89]:6610/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 劲爆体育,http://[2409:8087:7001:20:1000::94]:6610/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
 魅力足球,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
