@@ -125,4 +125,3 @@ CHC动作电影,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch22091
 快乐垂钓,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19061315471496603667.rsc/53949_Uni.sdp
 先锋乒羽,rtsp://27.148.239.99:1554/iptv/import/Tvod/iptv/001/001/ch22091415575673264280.rsc/60583_Uni.sdp
 茶频道,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch22083017183582533184.rsc/60023_Uni.sdp
-
