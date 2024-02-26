@@ -82,6 +82,7 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 甘肃卫视,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18051116230173626842.rsc/46561_Uni.sdp
 青海卫视,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch15102717162187662339.rsc/30965_Uni.sdp
 宁夏卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162173773216.rsc/30974_Uni.sdp
+新疆卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18051116232899271583.rsc/46809_Uni.sdp
 兵团卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18051116233733109443.rsc/46685_Uni.sdp
 三沙卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19091709173330412950.rsc/54749_Uni.sdp
 大湾区卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch19011109345458761991.rsc/51758_Uni.sdp
