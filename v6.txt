@@ -41,7 +41,7 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 海峡卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch17033111334107910034.rsc/53901_Uni.sdp
 福建教育,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch17092110554866036216.rsc/32846_Uni.sdp
 福州新闻,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18021018575987660580.rsc/44784_Uni.sdp
-厦门综合,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch18021018582713742946.rsc/44845_Uni.sdp
+厦门一套,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch18021018582713742946.rsc/44845_Uni.sdp
 厦门卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102712173616484873.rsc/31357_Uni.sdp
 莆田新闻,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018571856751097.rsc/44967_Uni.sdp
 宁德新闻,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18021018574362353141.rsc/44906_Uni.sdp
