@@ -45,7 +45,9 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 厦门卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102712173616484873.rsc/31357_Uni.sdp
 莆田新闻,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018571856751097.rsc/44967_Uni.sdp
 宁德新闻,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18021018574362353141.rsc/44906_Uni.sdp
-泉州新闻,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18020116435220856291.rsc/45203_Uni.sdp
+宁德文化旅游,http://lu1.cc/itv/fjtv/ndxl.php?id=ndwhly
+泉州新闻,rtmp://live.qztv.cn/live/news
+泉州闽南语,rtmp://live.qztv.cn/live/mny
 漳州新闻,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18021018563878531243.rsc/45264_Uni.sdp
 龙岩综合,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018573041536970.rsc/45325_Uni.sdp
 三明新闻,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018570726044306.rsc/45447_Uni.sdp
@@ -184,3 +186,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 爱悬疑,http://[2409:8087:7001:20:1000::84]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 爱幼教,http://[2409:8087:7001:20:1000::90]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 爱院线,http://[2409:8087:7001:20:1000::90]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+组播测试,#genre#
+星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+Channel V,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194

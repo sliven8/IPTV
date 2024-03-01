@@ -43,7 +43,9 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 厦门卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102712173616484873.rsc/31357_Uni.sdp
 莆田新闻,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018571856751097.rsc/44967_Uni.sdp
 宁德新闻,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18021018574362353141.rsc/44906_Uni.sdp
-泉州新闻,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18020116435220856291.rsc/45203_Uni.sdp
+宁德文化旅游,http://lu1.cc/itv/fjtv/ndxl.php?id=ndwhly
+泉州新闻,rtmp://live.qztv.cn/live/news
+泉州闽南语,rtmp://live.qztv.cn/live/mny
 漳州新闻,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18021018563878531243.rsc/45264_Uni.sdp
 龙岩综合,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018573041536970.rsc/45325_Uni.sdp
 三明新闻,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018570726044306.rsc/45447_Uni.sdp
