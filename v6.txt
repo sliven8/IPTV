@@ -18,7 +18,7 @@ CCTV-16,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch2307191017459
 CCTV-17,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19073116244855666953.rsc/54690_Uni.sdp
 CCTV-5+,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch17092110522954055086.rsc/51995_Uni.sdp
 CCTV-4K,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch24012916163414875758.rsc/62563_Uni.sdp?
-CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CCTV-8K,
 中国教育1,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch17081012040985783403.rsc/30992_Uni.sdp
 中国教育2,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19011415055733660637.rsc/51797_Uni.sdp
 中国教育3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -55,7 +55,7 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 卫视,#genre#
 凤凰中文,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614354694706611.rsc/41718_Uni.sdp
 凤凰资讯,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614353125275996.rsc/41775_Uni.sdp
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港,
 北京卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch15102717162108426467.rsc/30917_Uni.sdp
 天津卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18010423254205139387.rsc/40511_Uni.sdp
 河北卫视,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch15102717162108825623.rsc/30958_Uni.sdp
@@ -82,11 +82,11 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 贵州卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch17041215341272355599.rsc/30955_Uni.sdp
 云南卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch15102717162125393898.rsc/30954_Uni.sdp
 西藏卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18051116234822851422.rsc/46747_Uni.sdp
-陕西卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162169622851.rsc/30980_Uni.sdp
+陕西卫视,http://[2409:8087:7001:20:3::9]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8
 甘肃卫视,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18051116230173626842.rsc/46561_Uni.sdp
 青海卫视,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch15102717162187662339.rsc/30965_Uni.sdp
 宁夏卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162173773216.rsc/30974_Uni.sdp
-新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+新疆卫视,
 兵团卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18051116233733109443.rsc/46685_Uni.sdp
 三沙卫视,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19091709173330412950.rsc/54749_Uni.sdp
 大湾区卫视,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch19011109345458761991.rsc/51758_Uni.sdp
@@ -121,8 +121,8 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 百姓健康,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch23011618361727906139.rsc/61006_Uni.sdp
 四海钓鱼,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch23011620315277465261.rsc/61118_Uni.sdp
 家庭理财,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch23011619340696703803.rsc/60970_Uni.sdp
-中华美食,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
-天元围棋,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
+中华美食,
+天元围棋,
 CHC动作电影,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch22091415255480246214.rsc/60545_Uni.sdp
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -139,7 +139,7 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 书画频道,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch23101117041365170817.rsc/62396_Uni.sdp
 高网频道,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch21061816175629832803.rsc/58029_Uni.sdp
 爱上4K,rtsp://27.148.239.106:1554/iptv/import/Tvod/iptv/001/001/ch18122110190633826391.rsc/51363_Uni.sdp
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+纯享4K,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 金鹰纪实,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch19040410203183192171.rsc/53725_Uni.sdp
 金鹰卡通,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18051116144984651176.rsc/46375_Uni.sdp
 快乐垂钓,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19061315471496603667.rsc/53949_Uni.sdp
@@ -185,6 +185,3 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 爱悬疑,http://[2409:8087:7001:20:1000::84]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 爱幼教,http://[2409:8087:7001:20:1000::90]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 爱院线,http://[2409:8087:7001:20:1000::90]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-组播测试,#genre#
-星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
-Channel V,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194

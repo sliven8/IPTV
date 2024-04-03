@@ -50,6 +50,8 @@ CGTN纪录,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch2106241707
 三明新闻,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch18021018570726044306.rsc/45447_Uni.sdp
 南平新闻综合,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch18021018565597819147.rsc/45386_Uni.sdp
 平潭综合,rtsp://27.148.239.99:1554/iptv/import/Tvod/iptv/001/001/ch18111517242607846812.rsc/48823_Uni.sdp
+交通广播,rtsp://27.148.239.97:554/live/ch20081017375652415914.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20081017375652415914&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfDn8ztned7tmNAsQUhyACbDeVm9teuZEsKYsXJuPwZ17EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+新闻综合广播,rtsp://27.148.239.97:554/live/ch20081017371309010318.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20081017371309010318&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfDn8ztned7tmNAsQUhyACbB0KblMNLpZDFHhe8lHuwq%2FEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
 卫视,#genre#
 凤凰中文,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614354694706611.rsc/41718_Uni.sdp
 凤凰资讯,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch18011614353125275996.rsc/41775_Uni.sdp
