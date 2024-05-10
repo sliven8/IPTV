@@ -22,6 +22,7 @@ CCTV-4K,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch2401291616341
 中国教育2,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19011415055733660637.rsc/51797_Uni.sdp
 中国教育4,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch20021410003517423887.rsc/56565_Uni.sdp
 中国天气,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162146737823.rsc/30987_Uni.sdp
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CGTN,rtsp://27.148.239.105:1554/iptv/import/Tvod/iptv/001/001/ch15102717162043740968.rsc/30943_Uni.sdp
 CGTN法语,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch21062417080668650696.rsc/58108_Uni.sdp
 CGTN俄语,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch21062417084640600620.rsc/58146_Uni.sdp
@@ -128,3 +129,5 @@ CHC动作电影,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch22091
 快乐垂钓,rtsp://27.148.239.100:1554/iptv/import/Tvod/iptv/001/001/ch19061315471496603667.rsc/53949_Uni.sdp
 先锋乒羽,rtsp://27.148.239.99:1554/iptv/import/Tvod/iptv/001/001/ch22091415575673264280.rsc/60583_Uni.sdp
 茶频道,rtsp://27.148.239.103:1554/iptv/import/Tvod/iptv/001/001/ch22083017183582533184.rsc/60023_Uni.sdp
+北京纪实科教8K,,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
